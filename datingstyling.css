@@ -1,0 +1,32 @@
+body{
+    background-image:url("datingimage.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    background-position:center;
+    margin:0;
+    padding:50px;
+}
+h1{
+    color:#ff0000;
+    font-style: italic;
+    text-align:center ;
+    text-decoration-line: underline;
+    padding:10px;
+}
+.wrapper{
+    color:midnightblue;
+    font-size:15px;
+    font-family: sans-serif;
+    padding:10px;
+}
+#rows{
+    padding:10px;
+}
+
+tr{
+    padding: 10px;
+}
+td{
+    padding:10px;
+}
